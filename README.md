@@ -1,16 +1,16 @@
-## Hi there 👋
+# Clark
 
-<!--
-**CZxix/CZxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📘 Education
+- BS Information Technology – New Era University
+- Senior High School – ICT Strand
+- High School Graduate
 
-Here are some ideas to get you started:
+## 📜 Certifications
+- https://courses.cognitiveclass.ai/certificates/554bbf8b18f64be5a5e7eea9139f8180
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skillsets
+- HTML
+- CSS
+- SQL
+- Computer Hardware
+- UI/UX Design (Figma)
