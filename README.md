@@ -2,9 +2,7 @@
 ## 📘 Education
 
 -- BS Information Technology — New Era University
-
 -- Senior High School (ICT Strand)
-
 -- High School Graduate
 
 ## 📜 Certifications
@@ -15,7 +13,6 @@
 ## Web Development
 
 -- HTML
-
 -- CSS
 
 ## Databases
