@@ -1,29 +1,29 @@
 ## 👋 Hi, I'm Clark
 ## 📘 Education
 
-⏺ BS Information Technology — New Era University
-⏺ Senior High School (ICT Strand)
-⏺ High School Graduate
+• BS Information Technology — New Era University
+• Senior High School (ICT Strand)
+• High School Graduate
 
 ## 📜 Certifications
 
-⏺ SQL and Relational Databases 101 — CognitiveClass.ai — [Certificate Link](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
+• SQL and Relational Databases 101 — CognitiveClass.ai — [Certificate Link](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
 
 🛠 Skillsets
 ## Web Development
 
-⏺ HTML
+• HTML
 
-⏺ CSS
+• CSS
 
 ## Databases
 
-⏺ SQL
+• SQL
 
 ## Design
 
-⏺ UI/UX Design (Figma)
+• UI/UX Design (Figma)
 
 ## Technical
 
-⏺ Computer Hardware & Troubleshooting
+• Computer Hardware & Troubleshooting
