@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Clark Angel M. De Leon
-#### **📘 Education
+#### 📘 Education
 
 • BS Information Technology — New Era University
 
@@ -7,11 +7,11 @@
 
 • High School Graduate
 
-#### **📜 Certifications
+#### 📜 Certifications
 
 • SQL and Relational Databases 101 — CognitiveClass.ai — [Certificate Link](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
 
-🛠 **Skillsets
+🛠 Skillsets
 #### Web Development
 
 • HTML
