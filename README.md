@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Clark
+# 👋 Hi, I'm Clark Angel M. De Leon
 #### 📘 Education
 
 • BS Information Technology — New Era University
