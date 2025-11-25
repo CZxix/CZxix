@@ -29,3 +29,4 @@
 #### Technical
 
 • Computer Hardware & Troubleshooting
+• Network Cabling
