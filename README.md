@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Clark
+# 👋 Hi, I'm Clark
 ## 📘 Education
 
 • BS Information Technology — New Era University
