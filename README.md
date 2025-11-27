@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white">
     </td>
     <td align="center">
-      UI/UX Design (Figma) <br>
+      <br>
       <img src="https://img.shields.io/badge/Figma-pink?style=flat&logo=figma&logoColor=white"> <br>
       Wireframing & Prototyping <br>
       User Flows & Usability Testing
