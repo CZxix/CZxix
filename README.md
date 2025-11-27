@@ -3,6 +3,11 @@
   # Hi, I'm Clark Angel M. De Leon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
   <h3>2nd Year IT Student</h3>
+  
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </div>
 
 <hr/>
@@ -19,15 +24,28 @@
 
 ### 💻 Skillsets
 
-**Design**
-<br>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
 
-**Web Development**
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  **Design**
+  <br>
+  <a href="https://figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  </a>
 
-**Database**
-<br>
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <br> <br>
+
+  **Web Development**
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="web dev logos" />
+  </a>
+
+  <br> <br>
+
+  **Database**
+  <br>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  </a>
+
+</div>
