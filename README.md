@@ -20,7 +20,6 @@
 <div>
   
 ### Design
-  <br>
   <a href="https://figma.com">
   <br>
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" />
