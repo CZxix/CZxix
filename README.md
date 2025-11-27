@@ -35,9 +35,8 @@
 
   **Database**
   <br>
-  <a href="https://www.mysql.com/">
-  <br>
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" />
+  <a href="https://www.ibm.com/products/db2">
+    <br>
+    <img src="https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="50" alt="IBM DB2" />
   </a>
-
 </div>
