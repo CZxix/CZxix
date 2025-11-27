@@ -33,8 +33,6 @@
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   </a>
 
-  <br> <br>
-
   **Web Development**
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
