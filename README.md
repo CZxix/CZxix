@@ -9,20 +9,14 @@
   <em>2nd Year IT Student • Web & UI/UX Enthusiast • Aspiring Game Developer</em>
 </p>
 
----
-
 ## 📘 Education
 - **BS Information Technology** — New Era University  
 - **Senior High School (ICT Strand)**  
 - **High School Graduate**
 
----
-
 ## 📜 Certifications
 - **SQL and Relational Databases 101** — CognitiveClass.ai  
   [View Certificate](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
-
----
 
 ## 🛠 Skillsets
 
@@ -51,7 +45,6 @@
     </td>
   </tr>
 </table> 
----
-<p align="center">
+<p
 • Clark Angel M. De Leon
 </p>
