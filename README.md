@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:your-angelclarkmartir@gmail.com">
       <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
