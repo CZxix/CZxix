@@ -3,8 +3,7 @@
   # Hi, I'm Clark Angel M. De Leon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;2nd+Year+IT+Student;Prototyping+%26+Wireframing" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=2nd+Year+IT+Student;Aspiring+UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
 <hr/>
