@@ -24,11 +24,12 @@
 
 ### 💻 Skillsets
 
-<div align="center">
+<div
 
   **Design**
   <br>
   <a href="https://figma.com">
+  <br>
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   </a>
 
@@ -37,6 +38,7 @@
   **Web Development**
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <br>
     <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="web dev logos" />
   </a>
 
@@ -45,6 +47,7 @@
   **Database**
   <br>
   <a href="https://www.mysql.com/">
+  <br>
     <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
   </a>
 
