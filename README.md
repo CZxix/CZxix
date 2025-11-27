@@ -4,11 +4,6 @@
   <img src="https://img.shields.io/badge/Clark%20Angel%20M.%20De%20Leon-Portfolio-blue?style=for-the-badge" alt="Clark De Leon"/>
 </p>
 
-<!-- Optional Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?auto=format&fit=crop&w=1350&q=80" alt="Portfolio Banner" width="100%"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Clark Angel M. De Leon</h1>
 <p align="center">
   <em>2nd Year IT Student • Web & UI/UX Enthusiast • Aspiring Game Developer</em>
@@ -19,7 +14,7 @@
 ## 📘 Education
 - **BS Information Technology** — New Era University  
 - **Senior High School (ICT Strand)**  
-- **High School Graduate
+- **High School Graduate**
 
 ---
 
@@ -31,28 +26,29 @@
 
 ## 🛠 Skillsets
 
-<table>
-  <tr>
-    <td align="center">💻 <br> <b>Web Development</b></td>
-    <td align="center">🗄️ <br> <b>Databases</b></td>
-    <td align="center">🎨 <br> <b>Design</b></td>
-    <td align="center">🔧 <br> <b>Technical</b></td>
-  </tr>
-  <tr>
-    <td align="center">HTML<br>CSS<br><img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white"></td>
-    <td align="center">SQL<br><img src="https://img.shields.io/badge/-SQL-blue?style=flat&logo=mysql&logoColor=white"></td>
-    <td align="center">UI/UX Design<br>Wireframing<br>Prototyping<br>Figma<br><img src="https://img.shields.io/badge/-Figma-pink?style=flat&logo=figma&logoColor=white"></td>
-    <td align="center">Computer Hardware<br>Troubleshooting<br>Network Cabling</td>
-  </tr>
-</table>
+### 💻 Web Development
+- HTML  
+- CSS  
+
+### 🗄️ Databases
+- SQL  
+
+### 🎨 Design
+- UI/UX Design (Figma)  
+- Wireframing, Prototyping, User Flows, Usability Testing  
+
+### 🔧 Technical
+- Computer Hardware & Troubleshooting  
+- Network Cabling  
 
 ---
 
 ## ✨ Projects & Highlights
-| Project | Tech | Description | Link |
-|---------|------|------------|------|
-| Project Name | HTML / CSS / JS | Short description of the project | [Live Demo](#) |
-| Another Project | SQL / Figma | Example description | [View](#) |
+- **Project Name** — HTML / CSS / JS  
+  Short description and link to project or live demo.  
+
+- **Another Project** — SQL / Figma  
+  Short description and link to project or live demo.  
 
 ---
 
@@ -65,7 +61,6 @@
 
 ---
 
-### Footer
 <p align="center">
   Made with ❤️ • Clark Angel M. De Leon
 </p>
