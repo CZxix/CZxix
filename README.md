@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35&height=250&section=header&text=Clark%20Angel%20M.%20De%20Leon&fontSize=35&animation=fadeIn&fontAlignY=38&desc=2nd%20Year%20IT%20Student&descAlignY=55&descSize=20" width="100%" />
 
   <h3>Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
-
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
 </div>
 
 <hr/>
@@ -27,7 +22,7 @@
 
 ### 💻 Skillsets
 
-<div align="center">
+<div>
 
   **Design**
   <br>
@@ -36,16 +31,12 @@
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
   </a>
 
-  <br><br>
-
   **Web Development**
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="Frontend Technologies: HTML5 & CSS3">
     <br>
     <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="web dev logos" />
   </a>
-
-  <br><br>
 
   **Database**
   <br>
