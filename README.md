@@ -17,8 +17,7 @@
 
 ### 💻 Skillsets
 
-<div align="center">
-
+<div>
   **Design**
   <br>
   <a href="https://figma.com">
