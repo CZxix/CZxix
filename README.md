@@ -6,7 +6,7 @@
 
 <h1 align="center">👋 Hi, I'm Clark Angel M. De Leon</h1>
 <p align="center">
-  <em>2nd Year IT Student • Web & UI/UX Enthusiast • Aspiring Game Developer</em>
+  <em>2nd Year IT Student</em>
 </p>
 
 ## 📘 Education
