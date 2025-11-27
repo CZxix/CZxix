@@ -34,7 +34,6 @@
       <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white">
     </td>
     <td align="center">
-    <br>
       <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white">
     </td>
     <td align="center">
