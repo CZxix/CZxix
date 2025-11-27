@@ -3,11 +3,6 @@
   # Hi, I'm Clark Angel M. De Leon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
   <h3>2nd Year IT Student</h3>
-  
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
 </div>
 
 <hr/>
@@ -39,8 +34,6 @@
   <br>
     <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="web dev logos" />
   </a>
-
-  <br> <br>
 
   **Database**
   <br>
