@@ -26,22 +26,31 @@
 
 ## 🛠 Skillsets
 
-### 💻 Web Development
-- HTML  
-- CSS  
-
-### 🗄️ Databases
-- SQL  
-
-### 🎨 Design
-- UI/UX Design (Figma)  
-- Wireframing, Prototyping, User Flows, Usability Testing  
-
-### 🔧 Technical
-- Computer Hardware & Troubleshooting  
-- Network Cabling  
-
----
+<table>
+  <tr>
+    <td align="center">💻 <br><b>Web Development</b></td>
+    <td align="center">🗄️ <br><b>Databases</b></td>
+    <td align="center">🎨 <br><b>Design</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      HTML <br>
+      <img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white">  
+      CSS <br>
+      <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white">
+    </td>
+    <td align="center">
+      SQL <br>
+      <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white">
+    </td>
+    <td align="center">
+      UI/UX Design (Figma) <br>
+      <img src="https://img.shields.io/badge/Figma-pink?style=flat&logo=figma&logoColor=white"> <br>
+      Wireframing & Prototyping <br>
+      User Flows & Usability Testing
+    </td>
+  </tr>
+</table>
 
 ## ✨ Projects & Highlights
 - **Project Name** — HTML / CSS / JS  
