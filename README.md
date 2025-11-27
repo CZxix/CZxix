@@ -4,6 +4,11 @@
   <img src="https://img.shields.io/badge/Clark%20Angel%20M.%20De%20Leon-Portfolio-blue?style=for-the-badge" alt="Clark De Leon"/>
 </p>
 
+<!-- Optional Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?auto=format&fit=crop&w=1350&q=80" alt="Portfolio Banner" width="100%"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Clark Angel M. De Leon</h1>
 <p align="center">
   <em>2nd Year IT Student • Web & UI/UX Enthusiast • Aspiring Game Developer</em>
@@ -13,67 +18,50 @@
 
 ## 📘 Education
 - **BS Information Technology** — New Era University  
-- **Senior High School** (ICT Strand)  
-- **High School Graduate**
+- **Senior High School (ICT Strand)**  
+- **High School Graduate
 
 ---
 
 ## 📜 Certifications
 - **SQL and Relational Databases 101** — CognitiveClass.ai  
-  [Certificate Link](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
+  [View Certificate](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
 
 ---
 
 ## 🛠 Skillsets
 
-### 💻 Web Development
-- HTML  
-- CSS
-
-### 🗄️ Databases
-- SQL
-
-### 🎨 Design
-- UI/UX Design (Figma)  
-- Wireframing, Prototyping, User Flows, Usability Testing
-
-> **Figma / Design Work**  
-> I use Figma for UI mockups, interactive prototypes, and creating polished visual designs.  
-> _Figma link / portfolio:_ `https://www.figma.com/file/your-figma-link` *(replace with your Figma share link)*
-
-### 🔧 Technical
-- Computer Hardware & Troubleshooting  
-- Network Cabling
+<table>
+  <tr>
+    <td align="center">💻 <br> <b>Web Development</b></td>
+    <td align="center">🗄️ <br> <b>Databases</b></td>
+    <td align="center">🎨 <br> <b>Design</b></td>
+    <td align="center">🔧 <br> <b>Technical</b></td>
+  </tr>
+  <tr>
+    <td align="center">HTML<br>CSS<br><img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white"></td>
+    <td align="center">SQL<br><img src="https://img.shields.io/badge/-SQL-blue?style=flat&logo=mysql&logoColor=white"></td>
+    <td align="center">UI/UX Design<br>Wireframing<br>Prototyping<br>Figma<br><img src="https://img.shields.io/badge/-Figma-pink?style=flat&logo=figma&logoColor=white"></td>
+    <td align="center">Computer Hardware<br>Troubleshooting<br>Network Cabling</td>
+  </tr>
+</table>
 
 ---
 
 ## ✨ Projects & Highlights
-> *(Add short project entries here — title, tech used, 1-line description, and link)*
-
-- **Project Name** — `HTML / CSS / JS`  
-  Short description and link to project or live demo.
+| Project | Tech | Description | Link |
+|---------|------|------------|------|
+| Project Name | HTML / CSS / JS | Short description of the project | [Live Demo](#) |
+| Another Project | SQL / Figma | Example description | [View](#) |
 
 ---
 
 ## 📫 Contact
-- Email: `your.email@example.com` *(replace with actual contact info)*  
-- LinkedIn: `https://www.linkedin.com/in/your-link` *(replace)*  
-- Portfolio / Web Resume: `https://your-portfolio-link` *(replace)*
-
----
-
-## ⚙️ How I work
-- I like clean, accessible UI with simple, usable interactions.  
-- I prototype quickly and iterate based on feedback.  
-- I value teamwork and learning new technologies.
-
----
-
-## 📌 Want this on your GitHub?
-If you'd like, I can also:
-- Add a professional-looking header image (banner) suggestion,
-- Produce a small project list with links from your portfolio,
-- Generate a Figma embed preview or screenshots to include in the README.
+<p align="center">
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.figma.com/file/your-figma-link"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+</p>
 
 ---
 
