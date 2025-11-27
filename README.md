@@ -4,24 +4,17 @@
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=2nd+Year+IT+Student;Aspiring+Web+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <a href="mailto:your-angelclarkmartir@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
 </div>
 
 <hr/>
 
 ### 🎓 Education
-| Degree | Institution | Status |
-| :--- | :--- | :--- |
-| **BS Information Technology** | New Era University | *2nd Year* |
-| **Senior High School** | ICT Strand | *Graduated* |
+- **Bachelor of Science in Information Technology**
+  New Era University
+  *2nd Year Student*
+- **Senior High School (ICT Strand)**
 
-### 💻 Tech Stack & Design
+### 💻 Skillsets
 
 | Category | Skills |
 | :--- | :--- |
@@ -30,6 +23,5 @@
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 ### 📜 Certifications
-* **SQL and Relational Databases 101** — CognitiveClass.ai
-  <br>
-  🔗 [View Certificate](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
+- **SQL and Relational Databases 101** — CognitiveClass.ai
+  <br> [View Certificate](https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180)
