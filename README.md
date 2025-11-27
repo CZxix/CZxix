@@ -34,13 +34,13 @@
   </tr>
   <tr>
     <td align="center">
-      HTML <br>
+      <br>
       <img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white">  
-      CSS <br>
+      <br>
       <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white">
     </td>
     <td align="center">
-      SQL <br>
+    <br>
       <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white">
     </td>
     <td align="center">
@@ -50,15 +50,7 @@
       User Flows & Usability Testing
     </td>
   </tr>
-</table>
-
-## ✨ Projects & Highlights
-- **Project Name** — HTML / CSS / JS  
-  Short description and link to project or live demo.  
-
-- **Another Project** — SQL / Figma  
-  Short description and link to project or live demo.  
-
+</table> 
 ---
 
 ## 📫 Contact
