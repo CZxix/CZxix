@@ -24,6 +24,12 @@
     View Certificate
   </a>
 
+- **Oracle Data Platform 2025 Certified Foundations Associate**
+  <br>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B26F62FA5352AC561BC7F7B40A71CBEE202BAACDFE6C90871A3B1514A583C04" title="Click here to verify my certificate">
+    View Certificate
+  </a>
+
 ### 💻 Skillsets
 
 <div>
