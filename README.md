@@ -34,6 +34,10 @@
     <br>
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
   </a>
+  <a href="https://www.autodesk.com/products/autocad/overview" title="Design Tool: AutoCAD">
+    <br>
+    <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="AutoCAD logo" />
+  </a>
 
   **Web Development**
   <br>
