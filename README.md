@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35&height=250&section=header&text=Clark%20Angel%20M.%20De%20Leon&fontSize=35&animation=fadeIn&fontAlignY=38&desc=2nd%20Year%20IT%20Student&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35&height=250&section=header&text=Clark%20Angel%20M.%20De%20Leon&fontSize=35&animation=fadeIn&fontAlignY=38&desc=2nd%20Year%20BSIT%20Student&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <hr/>
