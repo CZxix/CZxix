@@ -18,7 +18,7 @@
     View Certificate
   </a>
 
-  - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
   <br>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FBF41498F4EBDA15870EDEBFA1A3B3D08699018CA36410147F9701B880836952" title="Click here to verify my certificate">
     View Certificate
