@@ -18,9 +18,9 @@
     View Certificate
   </a>
 
-  - **SQL and Relational Databases 101** — CognitiveClass.ai
+  - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
   <br>
-  <a href="https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180" title="Click here to verify my certificate">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FBF41498F4EBDA15870EDEBFA1A3B3D08699018CA36410147F9701B880836952" title="Click here to verify my certificate">
     View Certificate
   </a>
 
