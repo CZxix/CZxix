@@ -18,6 +18,12 @@
     View Certificate
   </a>
 
+  - **SQL and Relational Databases 101** — CognitiveClass.ai
+  <br>
+  <a href="https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180" title="Click here to verify my certificate">
+    View Certificate
+  </a>
+
 ### 💻 Skillsets
 
 <div>
