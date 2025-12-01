@@ -41,10 +41,6 @@
     <br>
     <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="AutoCAD logo" />
   </a>
-  <a href="https://www.lucidchart.com" title="Design & Diagram Tool: Lucidchart">
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Lucidchart_logo.svg" height="50" alt="Lucidchart logo" />
-  </a>
 
   **Web Development**
   <br>
