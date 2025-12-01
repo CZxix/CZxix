@@ -44,12 +44,20 @@
     <br>
     <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="AutoCAD logo" />
   </a>
+  <a href="https://www.lucidchart.com" title="Design & Diagram Tool: Lucidchart">
+    <br>
+    <img src="https://skillicons.dev/icons?i=lucidchart" height="50" alt="Lucidchart logo" />
+  </a>
 
   **Web Development**
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="Frontend Technologies: HTML5 & CSS3">
     <br>
     <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="web dev logos" />
+  </a>
+  <a href="https://code.visualstudio.com" title="Code Editor: VS Code">
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code logo" />
   </a>
 
   **Database**
