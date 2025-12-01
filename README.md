@@ -38,7 +38,6 @@
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma logo" />
   </a>
   <a href="https://www.autodesk.com/products/autocad/overview" title="Design Tool: AutoCAD">
-    <br>
     <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="AutoCAD logo" />
   </a>
 
@@ -49,7 +48,6 @@
     <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="web dev logos" />
   </a>
   <a href="https://code.visualstudio.com" title="Code Editor: VS Code">
-    <br>
     <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code logo" />
   </a>
 
