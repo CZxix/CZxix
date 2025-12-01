@@ -6,26 +6,23 @@
 <hr/>
 
 ### 🎓 Education
-- **Bachelor of Science in Information Technology**
-  New Era University
+- **Bachelor of Science in Information Technology**  
+  New Era University  
   *2nd Year Student*
 - **Senior High School (ICT Strand)**
 
 ### 📜 Certifications
-- **SQL and Relational Databases 101** — CognitiveClass.ai
-  <br>
+- **SQL and Relational Databases 101** — CognitiveClass.ai  
   <a href="https://cognitiveclass.ai/certificate_thumbnails/course/554bbf8b18f64be5a5e7eea9139f8180" title="Click here to verify my certificate">
     View Certificate
   </a>
 
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-  <br>
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**  
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FBF41498F4EBDA15870EDEBFA1A3B3D08699018CA36410147F9701B880836952" title="Click here to verify my certificate">
     View Certificate
   </a>
 
-- **Oracle Data Platform 2025 Certified Foundations Associate**
-  <br>
+- **Oracle Data Platform 2025 Certified Foundations Associate**  
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B26F62FA5352AC561BC7F7B40A71CBEE202BAACDFE6C90871A3B1514A583C04" title="Click here to verify my certificate">
     View Certificate
   </a>
@@ -38,7 +35,7 @@
   <br>
   <a href="https://figma.com" title="My Main Design Tool: Figma">
     <br>
-    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma logo" />
   </a>
   <a href="https://www.autodesk.com/products/autocad/overview" title="Design Tool: AutoCAD">
     <br>
@@ -46,7 +43,7 @@
   </a>
   <a href="https://www.lucidchart.com" title="Design & Diagram Tool: Lucidchart">
     <br>
-    <img src="https://skillicons.dev/icons?i=lucidchart" height="50" alt="Lucidchart logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Lucidchart_logo.svg" height="50" alt="Lucidchart logo" />
   </a>
 
   **Web Development**
