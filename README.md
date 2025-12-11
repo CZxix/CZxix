@@ -28,7 +28,7 @@
   </a>
 
 - **Become An OCI AI Foundations Associate (2025)**  
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B26F62FA5352AC561BC7F7B40A71CBEE202BAACDFE6C90871A3B1514A583C04" title="Click here to verify my certificate">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8125880E06670C2867F3C8C1F7C031D1D30F9C6A5C01E1B0D934021BEEBFE10F" title="Click here to verify my certificate">
     View Certificate
 
 ### 💻 Skillsets
