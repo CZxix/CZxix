@@ -2,13 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35&height=250&section=header&text=Clark%20Angel%20M.%20De%20Leon&fontSize=38&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%" />
 
 # 👋 Hello, I'm Clark Angel M. De Leon
-
-💻 BS Information Technology Student  
-🎨 Aspiring UI/UX Designer  
-☁️ Exploring Cloud, AI, and Database Technologies  
-
-</div>
-
 ---
 
 ## 📖 About Me
@@ -36,6 +29,8 @@ I am a 2nd Year BS Information Technology student from New Era University who en
 - 🏆 [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B26F62FA5352AC561BC7F7B40A71CBEE202BAACDFE6C90871A3B1514A583C04)
 
 - 🏆 [Become An OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8125880E06670C2867F3C8C1F7C031D1D30F9C6A5C01E1B0D934021BEEBFE10F)
+  
+- 🏆 [NoSQL and DBaaS 101 (2026)](https://courses.cognitiveclass.ai/certificates/1ce16b00874d4eadb44c069dcdb18b4d)
 
 ---
 
@@ -63,21 +58,11 @@ I am a 2nd Year BS Information Technology student from New Era University who en
 
 ---
 
-## 🚀 Current Goals
-
-- Become a Professional UI/UX Designer
-- Improve Frontend Development Skills
-- Learn More About User Experience Design
-- Build Creative and Interactive Projects
-- Continue Exploring AI and Cloud Technologies
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: angelclarkmartir@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
-- 🌐 GitHub: [Your GitHub Username](https://github.com/CZxix)
+- 🔗 LinkedIn: [De Leon Clark Angel M.](https://www.linkedin.com/in/de-leon-clark-angel-m-7628a7396/)
+- 🌐 GitHub: [CZxix](https://github.com/CZxix)
 
 ---
 
