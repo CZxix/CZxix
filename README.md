@@ -77,7 +77,7 @@ I am a 2nd Year BS Information Technology student from New Era University who en
 
 - 📧 Email: angelclarkmartir@gmail.com
 - 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
-- 🌐 GitHub: [Your GitHub Username](https://github.com/YOURUSERNAME)
+- 🌐 GitHub: [Your GitHub Username](https://github.com/CZxix)
 
 ---
 
