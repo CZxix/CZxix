@@ -63,9 +63,18 @@ I am a 2nd Year BS Information Technology student from New Era University who en
   <img src="https://skillicons.dev/icons?i=html,css,java,javascript" />
 </p>
 
-### 🎨 Design Tools
+### 🎨 Design & Video Editing
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,autocad" />
+  <img src="https://skillicons.dev/icons?i=figma,autocad,premiere" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+</p>
+
+### 🤖 AI Tools
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
 </p>
 
 ### 🗄️ Database Technologies
